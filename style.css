@@ -14,6 +14,14 @@ text-decoration-color:red ;
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: medium;
 font-style: normal;
-
-
+}
+table,th,td{
+    border:5px solid;
+    width: 100px;
+}
+ul{
+    list-style-type: circle;
+}
+ol{
+    list-style-type: lower-alpha;
 }
